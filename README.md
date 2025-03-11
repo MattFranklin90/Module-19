@@ -32,6 +32,4 @@ This project is licensed under the MIT License.
 
 ## Questions
 If you have any questions, feel free to reach out:
-- GitHub: [kbasius](https://github.com/kbasius)
-- Email: [Nottoday](mailto:Nottoday)
 
